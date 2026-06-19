@@ -1,4 +1,4 @@
-package MultidimensionalArrays;
+package MultidimensionalArrays_Arrays;
 
 import java.util.ArrayList;
 import java.util.Scanner;
